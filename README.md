@@ -1,0 +1,2 @@
+# Logicus
+Logicus Academy
