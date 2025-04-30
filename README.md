@@ -5,6 +5,6 @@
 Belajar Masuk Akal, Hasil Maksimal!
 </p>
 
-[Click to view website →](msha.ke/sabirin)
+[Click to view website →](https://msha.ke/sabirin)
 
 ---
