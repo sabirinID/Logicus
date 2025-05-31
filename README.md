@@ -8,3 +8,7 @@ Belajar Masuk Akal, Hasil Maksimal!
 [Click to view website →](https://msha.ke/sabirin)
 
 ---
+
+<p align="justify">
+Logicus Academy adalah tempat belajar modern yang menggabungkan logika, strategi, dan pendekatan personal untuk membantu siswa Indonesia memahami pelajaran dengan cara yang lebih efektif dan menyenangkan. Kami percaya bahwa setiap anak punya potensi luar biasa—tugas kami adalah mengaktifkannya.
+</p>
