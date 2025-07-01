@@ -41,5 +41,5 @@ Mempersiapkan siswa tidak hanya pintar, tapi juga percaya diri.
 - **Proyek aplikatif**: Penerapan ilmu dalam kasus nyata (misal: matematika untuk analisis data sederhana).  
 - **Komunitas belajar**: Grup diskusi dan mentorship dengan alumni sukses.  
 
-*"Ngerti Dasarnya, Jago Prakteknya!"*
+*"Ngerti Dasarnya, Jago Praktiknya!"*
 </p>
